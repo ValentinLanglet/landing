@@ -1,0 +1,22 @@
+.cards {
+  padding: 0 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cards img {
+  height: 200px;
+  width: 200px;
+}
+
+.card {
+padding: 50px 50px;
+box-shadow: 0 0 15px rgba(0,0,0,0.2);
+
+}
+
+.card p, h3{
+display: flex;
+justify-content: center;
+align-items: center;
+}
